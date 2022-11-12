@@ -17,3 +17,11 @@ poner el comando Npm start
 usar Ctrl + Click Izquierdo en el enlace
 
 y ya tendras la pagina creada
+
+
+
+Se Reservan Todos Los Derechos Sobre Los Archivos de Este Repositorio
+
+© 2022 SantiArriba o Santiago Suarez derechos de autor 2022.
+
+
